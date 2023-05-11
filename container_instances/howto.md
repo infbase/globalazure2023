@@ -8,7 +8,7 @@ Sign in to the Azure portal at https://portal.azure.com with your account.
 
 1. On the upper top search bar, type container instances. Under Services, select Container Instances.
 
-![Search bar](/app-service/img/Search.png "Search for the Container Instances service on the bar")
+![Search bar](/container_instances/img/Search.png "Search for the Container Instances service on the bar")
 
 2. In the Container Instances page, select + Create.
 
