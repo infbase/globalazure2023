@@ -8,7 +8,7 @@ Sign in to the Azure portal at https://portal.azure.com with your account.
 
 1. On the upper top search bar, type app services. Under Services, select App Services.
 
-![Search bar](/app-service/img/Docker.png "Search for the App Services on the bar")
+![Search bar](/app-service/img/Search.png "Search for the App Services on the bar")
 
 2. In the App Services page, select + Create.
 
@@ -37,22 +37,22 @@ In the Networking tab, select Enable Public access
 
 ![Networking](/app-service/img/Networking.png "Networking configurations")
 
-7. Select the Monitoring > button at the bottom of the page.
+7. Select the Next: Monitoring > button at the bottom of the page.
 
-There's no need to set monitoring for this kind of demo deployment
+There's no need to set monitoring for this demo deployment, so leave the default.
 
-8. Select the Tags > button at the bottom of the page.
+8. Select the Next: Tags > button at the bottom of the page.
 
-![Search bar](/app-service/img/Docker.png "Search for the App Services on the bar")
+![Tags](/app-service/img/Tags.png "Always important to tag your resources!")
 
-9. After validation runs, select the Create button at the bottom of the page.
+9. Select the Next: Review + Create > button at the bottom of the page.
+
+![Review](/app-service/img/ReviewAndCreate.png "Always important to tag your resources!")
+
+10. After validation runs, select the Create button at the bottom of the page.
 
 After deployment is complete, select Go to resource.
-
-![Search bar](/app-service/img/Docker.png "Search for the App Services on the bar")
 
 ## Browse to the app
 Browse to the deployed application in your web browser at the URL http://<app-name>.azurewebsites.net.
 Or click on Browse on the resource overview page.
-
-![Search bar](/app-service/img/Docker.png "Search for the App Services on the bar")
