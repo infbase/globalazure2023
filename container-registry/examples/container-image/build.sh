@@ -1,0 +1,1 @@
+az acr build -r globalazure2023pt -t globalazure2023pt.azurecr.io/demo/helloworld:1.0.0 .

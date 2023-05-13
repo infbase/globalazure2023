@@ -1,0 +1,1 @@
+az acr cache create -r globalazure2023pt -n helloworld -s docker.io/karthequian/helloworld -t karthequian/helloworld
