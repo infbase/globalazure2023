@@ -1,1 +1,1 @@
-see https://dev.azure.com/infbase/k8gb-kubeconeu2023
+For a full geo-destributed, gitops-based AKS setup, see https://dev.azure.com/infbase/k8gb-kubeconeu2023
